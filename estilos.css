@@ -1,0 +1,20 @@
+h2{
+    color: blue;
+    font-size: 50px;
+}
+
+.rosa {
+      color: rgb(250, 2, 155);
+  }
+.verde {
+    color: rgb(89, 255, 47); 
+}  
+.rojo {
+    color: red;
+} 
+.amarillo {
+    color: yellow;
+}
+li{
+    list-style-type: none;
+}
