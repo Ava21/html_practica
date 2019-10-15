@@ -17,4 +17,11 @@ h2{
 }
 li{
     list-style-type: none;
+    margin: auto;
+}
+ol{
+    background: #000000;
+    padding: 1px;
+    display: flex;
+    
 }
